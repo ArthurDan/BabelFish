@@ -1,0 +1,2 @@
+# BabelFish
+Cordova Traduction App
